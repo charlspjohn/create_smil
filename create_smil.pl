@@ -1,4 +1,7 @@
 #!/usr/bin/env perl
+# Version 1.0
+# charlspjohn@gmail.com
+
 use Term::ANSIColor;
 
 # If there is an argument change directory to it
